@@ -4,7 +4,7 @@
 - 👨‍💻 Aspirante a Desenvolvedor Front End
 - 🌱 Atualmente, estou aprendendo HTML5, CSS, JavaScript e React
 - 🚀 Buscando aprimorar minhas habilidades e contribuir para projetos interessantes
-- 📫 Como me encontrar: [LinkedIn]: https://www.linkedin.com/in/fabricio-vieira-64a268145/ | [E-mail]: fabriciovvieira@gmail.com
+- 📫 Como me encontrar: [LinkedIn]: https://www.linkedin.com/in/fabricio-vieira-64a268145/ | [E-mail]: fabriciovvieira@gmail.com [Portfólio]: https://fabrciovvieira.github.io/myportfolio/
 
 ## Habilidades
 - 💻 HTML5
